@@ -16,7 +16,7 @@ function loadQuiz(sub,difficulty){
           choices: ["Mumbai", "Agra","New Delhi","None of these"],
           correct: 2,
           desc: "Common Fact",
-          image: "./images/taj.jpeg"
+          image: "taj.jpeg"
       },
       {
           question: "Who won the IPL title 4 times?",
@@ -30,7 +30,7 @@ function loadQuiz(sub,difficulty){
           choices: ["Mysooree", "Patna","Nashik","Thiruvananthapuram"],
           correct: 3,
           desc: "The Statue of Ahimsa (121 feet tall), depicts the first Jain Tirthankara, Rishabhanatha, is located at Mangi-Tungi, near Nashik in the Indian state of Maharashtra.",
-          image: "./images/statue.jpg"    
+          image: "statue.jpg"    
       },
       {
           question: "Which of the following is called 'City of Lakes' ?",
@@ -44,7 +44,7 @@ function loadQuiz(sub,difficulty){
           choices: ["New Jersey", "Seoul","Vatican City","California"],
           correct: 2,
           desc: "Seoul has been immersed in smart technology for years, having been named the world's first smart city back in 2014.",
-          image: "./images/seoul.jpeg"    
+          image: "seoul.jpeg"    
       }
       ];
   }
@@ -55,7 +55,7 @@ function loadQuiz(sub,difficulty){
           choices: ["Mumbai", "Chennai","New Delhi","Hyderabad"],
           correct: 1,
           desc: "Common Fact",
-          image: "./images/gateway.jpeg"
+          image: "gateway.jpeg"
       },
       {
           question: "Which team won the IPL in 2019?",
@@ -69,7 +69,7 @@ function loadQuiz(sub,difficulty){
           choices: ["Jog Falls", "Tugela Falls","Angel Falls","Victoria Falls"],
           correct: 3,
           desc: " Angel Falls (Salto Ángel) in Venezuela is the highest waterfall in the world. The falls are 3230 feet in height.",
-          image: "./images/fall.jpeg"    
+          image: "fall.jpeg"    
       },
       {
           question: "Which of the following is called 'the Land of Rising Sun' ?",
@@ -122,7 +122,7 @@ function loadQuiz(sub,difficulty){
           choices: ["Mozilla", "Netscape","Opera","Google"],
           correct: 2,
           desc: "Netscape is a brand name associated with the development of the Netscape web browser. It created the JavaScript programming language, the most widely used language for client-side scripting of web pages, to be used in its Netscape browser, at first.",
-          image: "./images/browser.jpg"    
+          image: "browser.jpg"    
       }
       ];
   }
@@ -154,7 +154,7 @@ function loadQuiz(sub,difficulty){
           choices: ["Brendan Eich", "Guido van Rossum","James Gosling","Bjarne Stroustrup"],
           correct: 1,
           desc: "Brendan Eich, a Netscape Communications Corporation programmer, created JavaScript in September 1995. ",
-          image: "./images/js_dev.jpeg"    
+          image: "js_dev.jpeg"    
       },
       {
           question: "What is the output of below given code snippet? <br><samp>for(var i=1;i<=5;i++){<br>setTimeout(function timer(){ <br> console.log(i); <br>},i*1000);<br>}</samp><br>",
