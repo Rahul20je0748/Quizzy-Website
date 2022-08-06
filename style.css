@@ -1,0 +1,22 @@
+
+.title{
+    color: gold;
+    text-align: center;
+}
+.light{
+    background-color: rgb(176, 243, 221);
+}
+.boundary{
+border: 2px solid black;
+margin: 25px;
+}
+.progress{
+    height: 25px;
+    font-size: 20px;
+}
+.quest-img{
+width: 200px;
+}
+.form-check,.form-check-label{
+    cursor: pointer;
+}
